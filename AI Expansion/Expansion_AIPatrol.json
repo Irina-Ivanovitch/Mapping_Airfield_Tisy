@@ -1,0 +1,137 @@
+        {
+            "Name": "Tisy_Airstrip-Patrol-Nord",
+            "Persist": -4,
+            "Faction": "Shamans",
+            "Formation": "Column",
+            "FormationLooseness": 0.0,
+            "Loadout": "WestLoadout.json",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": 100.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 10.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300.0,
+            "RespawnTime": 600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    879.135925,
+					454.902405,
+					14740.521484
+                ],
+                [
+                    942.291016,
+					454.479614,
+					14707.971680
+                ],				
+                [
+                    1016.483032,
+					453.906433,
+					14674.002930
+                ],
+                [
+                    1019.293518,
+					454.026123,
+					14622.254883
+                ],
+                [
+                    978.759460,
+					453.822418,
+					14652.376953
+                ],
+                [
+                    865.313477,
+					454.813538,
+					14708.340820
+                ]				
+            ]
+        },
+        {
+            "Name": "Tisy_Airstrip-Patrol-Sud",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "Column",
+            "FormationLooseness": 0.0,
+            "Loadout": "WestLoadout.json",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": 100.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 10.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 300.0,
+            "RespawnTime": 600.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1087.605469,
+					454.002380,
+					14593.490234
+                ],
+                [
+                    1143.376953,
+					454.266052,
+					14566.778320
+                ],
+                [
+                    1161.515381,
+					454.475220,
+					14522.631836
+                ],				
+                [
+                    1241.851074,
+					454.315948,
+					14486.335938
+                ],
+                [
+                    1310.324341,
+					454.415527,
+					14505.196289
+                ],
+                [
+                    1262.243042,
+					454.213348,
+					14547.089844
+                ],
+                [
+                    1107.323242,
+					453.892517,
+					14623.244141
+                ]				
+            ]
+        }
